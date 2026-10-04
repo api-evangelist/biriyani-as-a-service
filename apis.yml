@@ -39,7 +39,6 @@ apis:
   - name: Biriyani As A Service
     description: "Biriyani images placeholder"
     humanURL: https://biriyani.anoram.com/
-    baseURL: https://biriyani.anoram.com/
     tags:
       - Personality
     properties:
